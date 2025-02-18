@@ -1,1 +1,2 @@
 # Python---Assorted-Projects-Assignment
+This was a major assignment for my Software Technology 1 Unit. The code was all done in Python and I achieved a mark of 29/30. To see the tasks please view the ST1_Major_Assignment_Final.pdf, as I completed the assignment alone, I only completed Parts A & B. For an overview of all the projects completed and my thoughts and reflections please view the Major Assignment.pdf
